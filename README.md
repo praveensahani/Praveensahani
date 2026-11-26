@@ -46,3 +46,6 @@ To learn, build, innovate and create useful technology products that make everyd
 ⭐ Thanks for visiting my profile!
 
 Keep Learning | Keep Building | Keep Innovating 🚀
+<p align="center">
+  <img src="banner.png" width="100%" alt="Praveen Sahani Banner">
+</p>
