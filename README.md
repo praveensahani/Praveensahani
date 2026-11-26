@@ -1,3 +1,10 @@
+<h3 align="center">
+  🚀 Turning Ideas Into Reality
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Android+App+Developer;AI+Explorer;Cloud+Technology+Enthusiast;Digital+Creator" />
+</p>
 👋 Hi, I'm Praveen Sahani
 
 🚀 Android App Developer | Technology Enthusiast | Digital Creator
