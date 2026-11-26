@@ -64,3 +64,34 @@ Keep Learning | Keep Building | Keep Innovating 🚀
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=praveensahani&label=Profile%20Views&color=00C7FF&style=for-the-badge" />
 </p>
+
+🌐 Connect With Me
+
+<p align="center">
+  <a href="https://praveensahani.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-00C7FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@praveen_sahani?si=emPJgcXrhQ34yfZ9">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/praveen_nishad_103?rpxt=MW5tbTc3aGdsNGU1eg==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/praveensahani">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:praveensahani9273@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://ffshare.garena.com/?region=IND&lang=en">
+    <img src="https://img.shields.io/badge/Free_Fire-FF8C00?style=for-the-badge&logo=garena&logoColor=white" />
+  </a>
+</p>---
+
+💙 Thanks for Visiting My Profile!
+
+<p align="center">
+  <b>Build • Innovate • Learn • Grow</b>
+</p><p align="center">
+  ⭐ If you like my projects, consider giving them a Star!
+</p>
