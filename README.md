@@ -49,3 +49,18 @@ Keep Learning | Keep Building | Keep Innovating 🚀
 <p align="center">
   <img src="banner.png" width="100%" alt="Praveen Sahani Banner">
 </p>
+📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=praveensahani&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveensahani&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+</p>🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=praveensahani&theme=tokyonight&hide_border=true" width="100%" />
+</p>👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=praveensahani&label=Profile%20Views&color=00C7FF&style=for-the-badge" />
+</p>
