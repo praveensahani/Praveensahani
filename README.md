@@ -64,7 +64,48 @@ Keep Learning | Keep Building | Keep Innovating 🚀
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=praveensahani&label=Profile%20Views&color=00C7FF&style=for-the-badge" />
 </p>
+🚀 Featured Projects
 
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📸 Photo Video URL</h3>
+      A platform for uploading and sharing photos, videos, documents and files.
+      <br/><br/>
+      <b>Tech:</b> Android • Kotlin • Supabase • Firebase
+      <br/>
+      <a href="https://github.com/praveensahani/Photo-Video-URL">View Project →</a>
+    </td>
+    <td width="50%">
+      <h3>☁️ Cloud Set Storage</h3>
+      An Android cloud storage application.
+      <br/><br/>
+      <b>Tech:</b> Android • Kotlin • Google Drive • Firebase
+      <br/>
+      <a href="https://github.com/praveensahani/Cloud-set-storage-2.0.2">View Project →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🌐 Personal Website</h3>
+      My personal website and digital portfolio.
+      <br/><br/>
+      <b>Tech:</b> Web Development • TypeScript
+      <br/>
+      <a href="https://github.com/praveensahani/personal_Praveen_sahani">View Project →</a>
+      <br/>
+      <a href="https://praveensahani.netlify.app">Live Website →</a>
+    </td>
+    <td width="50%">
+      <h3>🤖 AI & Technology</h3>
+      Exploring AI-powered applications and innovative technology concepts.
+      <br/><br/>
+      <b>Focus:</b> AI • Cloud • Android
+      <br/>
+      More projects coming soon!
+    </td>
+  </tr>
+</table>
 🌐 Connect With Me
 
 <p align="center">
